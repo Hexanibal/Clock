@@ -1,10 +1,5 @@
-int m, s, h;
-
 void setup(){
   size(900, 900);
-  s = 0;
-  m = 0;
-  h = 19;
 }
 
 void draw(){
